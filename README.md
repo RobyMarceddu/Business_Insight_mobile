@@ -1,6 +1,6 @@
 # Stats Preview Card Component (Desktop-First)
 
-This is a solution to the [Stats preview card component challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JSN2JgK).
+This is a solution to the [Stats preview card component challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 This project is a single-page component demonstrating a common landing page layout: a 50/50 split between text content and an image.
 
