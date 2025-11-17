@@ -11,14 +11,14 @@ This project is a single-page component demonstrating a common landing page layo
 
 ---
 
-### 🚀 Features
+### Features
 
 * **50/50 Layout:** Built with CSS Grid for a clean separation between text and image.
 * **Image Filter (Overlay):** A vibrant color filter applied to the image, matching the highlighted text color (`.insights`).
 
 ---
 
-### 🛠️ Built with (Tech Stack)
+### Built with (Tech Stack)
 
 * **Semantic HTML5:** Structured with tags like `<main>`, `<section>`, and `<h1>`.
 * **Modern CSS:**
@@ -30,7 +30,7 @@ This project is a single-page component demonstrating a common landing page layo
 
 ---
 
-### 💡 How the Overlay Works
+### How the Overlay Works
 
 The key feature is the purple filter over the image. This effect is achieved purely in CSS using:
 
